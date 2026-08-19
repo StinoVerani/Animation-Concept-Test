@@ -1,10 +1,16 @@
+html,
+body {
+	margin: 0;
+	background: transparent;
+}
+
 .animation-stage {
 	min-height: 100vh;
 	display: grid;
 	place-items: center;
 	padding: 1rem;
 	box-sizing: border-box;
-	background: #d8f3ff;
+	background: transparent;
 }
 
 .animation-container {
